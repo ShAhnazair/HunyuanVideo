@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tencent-Hunyuan/HunyuanVideo/refs/heads/main/assets/logo.png"  height=100>
 </p>
-
+Một người đàn ông Việt Nam nhỏ bé với mái tóc ngắn màu đen, mặc áo hoodie màu xám, quần đùi chở hàng màu be và giày thể thao màu trắng, ngồi trên chiếc thuyền giấy gấp bằng giấy báo cũ, chèo qua một kênh thoát nước bẩn thỉu bên đường. Cơ thể anh ta thu nhỏ, cỡ bằng bao thuốc lá, tạo ra sự tương phản siêu thực và ngớ ngẩn với môi trường xung quanh thực của anh ta. Máy ảnh theo dõi anh ấy từ góc thấp, ở mức độ mắt, khi anh ấy chèo bằng một cái muỗng nhựa nhỏ. Có những thứ rác rưởi trôi nổi xung quanh anh ta. Bức ảnh có cảm giác điện ảnh và tập trung. Đối thoại 8 giây (trong hiện trường), anh ta nói với ngôn ngữ Việt Nam, anh ta nói: "TTP "
 # HunyuanVideo: A Systematic Framework For Large Video Generation Model
 
 <div align="center">
